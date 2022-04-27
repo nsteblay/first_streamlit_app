@@ -1,5 +1,5 @@
 # from email.policy import default
-# import streamlit
+import streamlit
 # import pandas
 # import requests
 # import snowflake.connector
