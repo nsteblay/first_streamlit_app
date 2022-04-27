@@ -1,7 +1,7 @@
 # from email.policy import default
 import streamlit
 import pandas
-# import requests
+import requests
 # import snowflake.connector
 # from urllib.error import URLError
 streamlit.title('My Mom\'s New Super Healthy Diner')
